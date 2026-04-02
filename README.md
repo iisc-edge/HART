@@ -1,4 +1,4 @@
-# Anonymous GitHub for Paper Submission
+# HART: A Pretrained Time-Series Foundation Model and Benchmark for Human Activity Recognition
 
 This repository contains the code accompanying our paper. It is organised into four stages: **data preprocessing**, **HART pre-training**, **HART fine-tuning (LOSO evaluation)**, and **baseline benchmarking**.
 
